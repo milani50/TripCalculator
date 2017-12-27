@@ -17,9 +17,13 @@ java TripCalculator.RunTripCalculator
 
 The program posts a window to accept user input.
 The user can enter the name of a student in the "Student Name" field.
-The user can enter the expense values for the named student into the "Expenses" field.
-Clicking "Next Student" button will store the current student information and allows the user to enter information for more students.
-After information for all students has been entered, the user can click the "Submit" button. 
-The program will process all the entered data, and will display the results into a new window. 
+The user can enter the expense values for the named student into the "Expenses" 
+field.
+Clicking "Next Student" button will store the current student information and 
+allows the user to enter information for more students.
+After information for all students has been entered, the user can click the 
+"Submit" button. 
+The program will process all the entered data, and will display the results 
+into a new window. 
 
 
