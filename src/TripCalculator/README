@@ -1,0 +1,18 @@
+README file 
+Code project: Trip Calculator
+Author: Ali Milaninia
+
+Domain: Trip Calculator
+Interface: Native GUI
+
+This program can be run from the command line.
+
+The following was used to compile and run the program from a Macintosh 
+command line terminal. It is assumed that the source files are located
+in a directory folder called TripCalculator. It is also assumed that the 
+TripCalculator folder resides in the current working directory.
+
+javac TripCalculator/*.java
+java TripCalculator.RunTripCalculator
+
+
