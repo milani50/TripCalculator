@@ -25,5 +25,6 @@ After information for all students has been entered, the user can click the
 "Submit" button. 
 The program will process all the entered data, and will display the results 
 into a new window. 
+The program can process any number of students.
 
 
